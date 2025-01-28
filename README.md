@@ -1,4 +1,4 @@
-# weatherApi
+# weatherApi https://weatherapi1212.netlify.app
 simple weather Api translated english to arabic and vice versa using react.js and axios to fetch data 
 
 used libraries and tools
