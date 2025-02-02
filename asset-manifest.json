@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8c0de5f2.css",
-    "main.js": "/static/js/main.f2c77e76.js",
+    "main.js": "/static/js/main.c724d36b.js",
     "static/js/453.d9c645c1.chunk.js": "/static/js/453.d9c645c1.chunk.js",
     "static/js/38.c4560e67.chunk.js": "/static/js/38.c4560e67.chunk.js",
     "static/media/Overpass-Bold.ttf": "/static/media/Overpass-Bold.955c622e90854bc048c3.ttf",
@@ -10,12 +10,12 @@
     "static/media/Overpass-Regular.ttf": "/static/media/Overpass-Regular.59495f8bdf8ceb8802da.ttf",
     "index.html": "/index.html",
     "main.8c0de5f2.css.map": "/static/css/main.8c0de5f2.css.map",
-    "main.f2c77e76.js.map": "/static/js/main.f2c77e76.js.map",
+    "main.c724d36b.js.map": "/static/js/main.c724d36b.js.map",
     "453.d9c645c1.chunk.js.map": "/static/js/453.d9c645c1.chunk.js.map",
     "38.c4560e67.chunk.js.map": "/static/js/38.c4560e67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c0de5f2.css",
-    "static/js/main.f2c77e76.js"
+    "static/js/main.c724d36b.js"
   ]
 }
