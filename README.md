@@ -2,7 +2,7 @@
 simple weather Api translated english to arabic and vice versa using react.js and axios to fetch data 
 and also applying reduxToolkit async thunk function
 
-used libraries and tools
+used libraries and tools ->
 
 openWeatherApi
 
